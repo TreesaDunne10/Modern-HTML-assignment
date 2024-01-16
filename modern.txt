@@ -1,0 +1,60 @@
+Modern HTML assignment
+
+Ques 1. List out the features of HTML5.
+
+Ans 1. Here are the several features of HTML5 are as follows:
+(1.) Semantics: New structural elements like <article> , <section> , <header> ,and <footer> for better document structure.
+
+(2.) Multimedia: Native support for audio and video elements (<audio> and <video>) reducing the need for third party plugins.
+
+(3.) Canvas: The <canvas> element enables dynamic, scriptable rendering of 2D shapes and bitmap images.
+
+(4.) Offline storage: Local storage and session storage provide client side storage solutions for web application.
+
+(5.) Geolocation: HTML5 allows websites to request and obtain the user's geographical location.
+
+(6.) Responsive design: Features like media queries support responsive web design for different devices and screen sizes.
+
+(7.) Drag and drop: Native support for drag and drop interactions without the need for external libraries.
+
+(8.) APIs: Numerous new APIs such as history API , web storage API , and web audio API, enhance web application functionally.
+
+Ques 2. What are HTML entities? List out 5 commonly used HTML entities.
+
+Ans 2. HTML entities - HTML entities are special codes or sequences used to represent characters that have a specific meaning in HTML or character that might be reserved for html syntax. They are particularly useful when you want to display characters that could be misinterpreted as HTML markup, or when you need to represent characters that don't have a direct keyboard input.
+
+5 commonly used HTML entities:
+(1.) &copy; - it represents the copyright symbol 
+(2.) &amp; - it represents the ampersand symbol '&'
+(3.) &quot; - it represents the double quotation mark "
+(4.) &lt; - it represents the less than symbol <
+(5.) &gt; - it represents the greater than symbol >
+
+Ques 3. Define the accessibility in the context of web development. Discuss why it's essential to create accessible websites and how it benefits different user group.
+
+Ans 3. Accessibility in Web Development - Accessibility in web development refers to the practice of designing and developing websites and application that can be easily used and navigated by individuals with various disabilities. The goal is to ensure that all users, regardless of their abilities or disabilities , can access and interect with web content effectively.
+
+Accesible websites is essential for several reasons:
+(1.) Inclusivity - It ensures that people with disabilities can use and enjoy the web. Everyone deserves equal access to information and services online.
+
+(2.) Better experience for all - Accessibility features often enhance the overall user experience. Clear navigation, readable text, and logical structures benefits Everyone, not just those with disabilities.
+
+(3.) Legal requirements - Many countries have laws requiring websites to be accessible. Following accessibility guidelines helps businesses and organizations comply with these laws.
+
+Different user groups benefits from accessible websites:
+(1.) Visually impaired - Screen readers can read out text, making content accessible to those with visual impairments.
+
+(2.) Hearing impaired - Captions for video help those who are deaf or hard of hearing to understand multimedia content.
+
+(3.) Motor impaired - Keyboard navigation and easy to click buttons assist users with motor impairments.
+
+(4.) Cognitive impaired - Clear language and simple navigation aid those with cognitive disabilities in understanding and using the websites.
+
+Ques 4. List any 3 ways which help us in improving the accessibility of HTML.
+
+Ans 4. Following are the 3 ways of improving the accessibility of HTML:
+(1.) Use descriptive alt text for images - Add meaningful alternative text to images using the 'alt' attribute. This helps users with visual impairments understand the content of images through screen readers.
+
+(2.) Create Semantic html structure - Use proper HTML tags like headings(<h1> , <h2> , <h3> etc.) and lists(<ul> , <ol>) to structure content logically. This aids screen readers and improves overall navigation for all users.
+
+(3.) Provide keyboard accessibility - Ensure that all interactive elements, like links and form controls are accessible via the keyboard. Users with motor impairments or thoses who cannot use a mouse rely on keyboard navigation for accessibility. 
